@@ -1,0 +1,49 @@
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 22 Jun 2016 11:02:22 at https://sites.google.com/site/saifahmednow/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sites.google.com/site/saifahmednow/ -O1 "C:\My Web Sites\my site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:02:51	Warning: 	Link https://sites.google.com/site/saifahmednow/system/app/pages/reportAbuse not scanned (follow robots meta tag)
+11:02:51	Error: 	"Bad Request" (400) at link https://sites.google.com/site/saifahmednow/_/tz (from https://sites.google.com/site/saifahmednow/)
+11:03:25	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:38770e2ebd43b8b3 not scanned (follow robots meta tag)
+11:03:25	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:2096b3f1de725131 not scanned (follow robots meta tag)
+11:03:25	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:8cdb749a5c31cab not scanned (follow robots meta tag)
+11:03:25	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:e2afecc1b39f59f not scanned (follow robots meta tag)
+11:03:25	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:774cc9d762908b87 not scanned (follow robots meta tag)
+11:03:25	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:33c3b0efcbd30ac3 not scanned (follow robots meta tag)
+11:03:25	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:41b9b7eb68a6755d not scanned (follow robots meta tag)
+11:03:25	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:7012dcbb46ff020b not scanned (follow robots meta tag)
+11:03:26	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:6b1c078b3b15b533 not scanned (follow robots meta tag)
+11:03:26	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:7a08e1511b2deb6 not scanned (follow robots meta tag)
+11:03:26	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:7f49ba180fc4c4a8 not scanned (follow robots meta tag)
+11:03:26	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:780c586ac69680a not scanned (follow robots meta tag)
+11:03:26	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:16b837c794a587d4 not scanned (follow robots meta tag)
+11:03:26	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:12abb43df47ceac8 not scanned (follow robots meta tag)
+11:03:30	Error: 	"Not Found" (404) at link docs.google.com/images/env.png (from https://sites.google.com/site/saifahmednow/_/rsrc/1465686560000/system/app/css/camelot/error.css)
+11:03:30	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:31bae8684749c179 not scanned (follow robots meta tag)
+11:03:30	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:6c48790e827565c not scanned (follow robots meta tag)
+11:03:30	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:159e6953e1bf053a not scanned (follow robots meta tag)
+11:03:32	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:2d1cd253666f7443 not scanned (follow robots meta tag)
+11:03:32	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:527f7305a4d7ce16 not scanned (follow robots meta tag)
+11:03:32	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:17060b761cdfd837 not scanned (follow robots meta tag)
+11:03:35	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:6fa05134bd230617 not scanned (follow robots meta tag)
+11:03:35	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:2be25fdafdb28aac not scanned (follow robots meta tag)
+11:03:41	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:a07e181f6f09765 not scanned (follow robots meta tag)
+11:03:45	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:1a1486f85d0debd4 not scanned (follow robots meta tag)
+11:03:45	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:1a57fd5f54a9b353 not scanned (follow robots meta tag)
+11:03:45	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:67aeb13bb39411c8 not scanned (follow robots meta tag)
+11:03:48	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:7eeb28a32766d7c9 not scanned (follow robots meta tag)
+11:03:50	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:26a8f2b5075bb3e not scanned (follow robots meta tag)
+11:03:50	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:1ec666ddf716ff9 not scanned (follow robots meta tag)
+11:03:52	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:de36cd37454154b not scanned (follow robots meta tag)
+11:03:55	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:6eb298dfd7778e78 not scanned (follow robots meta tag)
+11:03:57	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:69298053d39bc04e not scanned (follow robots meta tag)
+11:03:57	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:63a2ea6fb1bc64fd not scanned (follow robots meta tag)
+11:03:57	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:13d82f1a2d6eaca8 not scanned (follow robots meta tag)
+11:03:57	Warning: 	Link https://sites.google.com/site/saifahmednow/system/errors/NodeNotFound?suri=wuid:gx:109791ffd17f9d34 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.48-22 mirror complete in 1 minutes 35 seconds : 104 links scanned, 101 files written (8424014 bytes overall) [7566448 bytes received at 79646 bytes/sec], 1456715 bytes transferred using HTTP compression in 154 files, ratio 28%
+(2 errors, 36 warnings, 0 messages)
